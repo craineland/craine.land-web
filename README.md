@@ -1,9 +1,5 @@
-Echoes is a free template created by Nicola Tolin 
+craine.land-web
 
-www.nicolatolin.com
+Personal website HTML/CSS/JavaScript for Camden Landis.
 
-Echoes  is based on the Bootstrap framework (http://getbootstrap.com/) created by Mark Otto(https://twitter.com/mdo) and Jacob Thorton(https://twitter.com/fat).
-
-Copyright and License
-
-Copyright 2016 Nicola Tolin. Code released under the Apache 2.0 license.# craine.land-web
+Steal any code that you would like, but not my identity.
