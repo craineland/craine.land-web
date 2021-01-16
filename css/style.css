@@ -537,10 +537,19 @@ a:visited {
   min-height: 100vh;
 }
 
-#content-wrap {
-  padding-bottom: 2.5rem;    /* Footer height */
-}
 
 .aligncenter {
     text-align: center;
+}
+
+.lowerleftpic {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+
+.lowercenterpic {
+    position: absolute;
+    left: 166px;
+    bottom: 0px;
 }
